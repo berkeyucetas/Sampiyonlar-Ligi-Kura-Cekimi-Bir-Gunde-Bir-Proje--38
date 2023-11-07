@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\bin\Debug\Şampiyonlar Ligi Kura Çekimi.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\bin\Debug\Şampiyonlar Ligi Kura Çekimi.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\bin\Debug\Şampiyonlar Ligi Kura Çekimi.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar_Ligi_Kura_Çekimi.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar_Ligi_Kura_Çekimi.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şampiyonlar Ligi Kura Çekimi\Şampiyonlar Ligi Kura Çekimi\obj\Debug\Şampiyonlar Ligi Kura Çekimi.pdb
